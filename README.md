@@ -55,7 +55,7 @@ STEP 8. Use the **6th option** to run a docker OS
 
 ![alt-text](https://github.com/rgyan619/docker/blob/master/running_docker.png)
 
-STEP 9. Use the **7th option** to background running OS.
+STEP 9. Use the **7th option** to check background running OS.
 
 ![alt-text](https://github.com/rgyan619/docker/blob/master/back_docker.png)
 
