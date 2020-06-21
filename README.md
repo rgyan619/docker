@@ -33,6 +33,32 @@ STEP 2. The home screen of this script is like this..
 
 ![alt-text](https://github.com/rgyan619/docker/blob/master/openning_script.png)
 
-STEP 3.
+STEP 3. Use the **1st option**  for verification that docker is installed or not.
+
+![alt-text](https://github.com/rgyan619/docker/blob/master/docker_check.png)
+
+STEP 4. Use the **2nd option** to start the docker 
+
+![alt-text](https://github.com/rgyan619/docker/blob/master/Starting_docker.png)
+
+STEP 5. USe the **3rd option** to check the status whethere the docker is active or not.
+
+![alt-text](https://github.com/rgyan619/docker/blob/master/docker_status.png)
+
+STEP 6. Use the **4th option** to check the pre-installed images.
+
+![alt-text](https://github.com/rgyan619/docker/blob/master/checking_images.png)
+
+STEP 7. Use the **5th option** to installed new images
+
+STEP 8. Use the **6th option** to run a docker OS
+
+![alt-text](https://github.com/rgyan619/docker/blob/master/running_docker.png)
+
+STEP 9. Use the **7th option** to background running OS.
+
+![alt-text](https://github.com/rgyan619/docker/blob/master/back_docker.png)
+
+STEP 10. Use the **8th option** to stop the docker.
 
 
