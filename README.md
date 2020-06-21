@@ -61,4 +61,8 @@ STEP 9. Use the **7th option** to check background running OS.
 
 STEP 10. Use the **8th option** to stop the docker.
 
+NOTE: For more information contact me on linkedin https://www.linkedin.com/in/gyan-ranjan-096797148 
+    
+  **ENJOY THE SCRIPT!!!**
+
 
