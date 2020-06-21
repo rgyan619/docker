@@ -31,7 +31,7 @@ STEP 1. Copy paste the code **docker.py** and excute it.
 
 STEP 2. The home screen of this script is like this..
 
-![alt-text]()
+![alt-text](https://github.com/rgyan619/docker/blob/master/openning_script.png)
 
 STEP 3.
 
