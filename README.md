@@ -1,7 +1,7 @@
 # docker
-****INSTALLING THE DOCKER****
+****# INSTALLING THE DOCKER****
 
-**NOTE: THIS METHOD IS ONLY VALID FOR REDHAD LINUX.**
+NOTE: THIS METHOD IS ONLY VALID FOR REDHAD LINUX.
  
 STEP 1. Go to this link https://download.docker.com/linux/centos/7/x86_64/stable/ 
 
@@ -25,7 +25,7 @@ STEP 5. Save this file and run a command **yum install docker-ce --no best**
 STEP 6. Check if the docker is installed properly or no by this command **rpm -q docker-ce**
 
 
-****USING THE DOCKER SCRIPT****
+****# USING THE DOCKER SCRIPT****
 
 STEP 1. Copy paste the code **docker.py** and excute it.
 
