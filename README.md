@@ -18,7 +18,7 @@ STEP 4. Copy paste the code in that file -->>
     gpgcheck=0
     
 
-!alt.link(https://github.com/rgyan619/docker/blob/master/yum.png)
+![alt-text](https://github.com/rgyan619/docker/blob/master/yum.png)
 
 STEP 5. Save this file and run a command **yum install docker-ce --no best**
 
