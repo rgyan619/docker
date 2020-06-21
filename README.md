@@ -27,6 +27,12 @@ STEP 6. Check if the docker is installed properly or no by this command **rpm -q
 
 ****USING THE DOCKER SCRIPT****
 
-STEP 1.
+STEP 1. Copy paste the code **docker.py** and excute it.
+
+STEP 2. The home screen of this script is like this..
+
+![alt-text]()
+
+STEP 3.
 
 
