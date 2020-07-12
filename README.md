@@ -1,7 +1,7 @@
 # DOCKER FOR ALL!!
 
 
-# INSTALLING THE DOCKER
+# Installing the docker
 
 **NOTE: THIS METHOD IS ONLY VALID FOR REDHAT LINUX.**
  
@@ -27,7 +27,7 @@ STEP 5. Save this file and run a command **yum install docker-ce --no best**
 STEP 6. Check if the docker is installed properly or no by this command **rpm -q docker-ce**
 
 
-# USING THE DOCKER SCRIPT
+# Using the docker script
 
 STEP 1. Copy paste the code **docker.py** and excute it.
 
