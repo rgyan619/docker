@@ -1,7 +1,7 @@
 # docker
 ****# INSTALLING THE DOCKER****
 
-NOTE: THIS METHOD IS ONLY VALID FOR REDHAT LINUX.
+**NOTE: THIS METHOD IS ONLY VALID FOR REDHAT LINUX.**
  
 STEP 1. Go to this link https://download.docker.com/linux/centos/7/x86_64/stable/ 
 
